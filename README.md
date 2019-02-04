@@ -5,6 +5,6 @@ Usage:
 2. execute script by: 
 curl-pN.sh URLs_PerLine_List.dat 100 
 
-when 100 is parallel concurrent requests that runs from file.
+when 100 is parallel concurrent requests that runs on urls from .dat file.
 # ==>
 curl measurements data replied in terminal and it is in csv format - so you can redirect output into file.csv and use excel or ELK or else to analyze.
